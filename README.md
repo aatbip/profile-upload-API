@@ -27,8 +27,8 @@ contains routing definitions.
 HERE IS THE .env file content -> 
 
 ************************************************
-``
-MONGO_URI= replace your MONGODB URI>
+
+``MONGO_URI= replace your MONGODB URI>
   
 PORT=3000
   
@@ -36,9 +36,9 @@ ENVIRONMENT=local
   
 API_KEY=BA673A414C3B44C98478BB5CF10A0F832574090C
   
-SITE=http://localhost:3000
+SITE=http://localhost:3000``
 
-  ``
+
 ***********************************************
 
 To run the project: 
