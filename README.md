@@ -28,7 +28,7 @@ HERE IS THE .env file content ->
 
 ************************************************
 
-MONGO_URI= <replace your MONGODB URI> 
+MONGO_URI= `replace your MONGODB URI>`
   
 PORT=3000
   
