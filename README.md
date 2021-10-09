@@ -10,7 +10,7 @@ Middleware ->
 
 uploader.js is the multer function for uploading the images. 
 
-validate.js is the middleware for API validation in every API requests. API to be sent in the header. 
+validate.js is the middleware for API validation in every API requests. API Key to be sent in the header. 
 
 Controllers -> 
 
